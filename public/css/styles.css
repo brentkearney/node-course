@@ -47,6 +47,11 @@ button {
     padding: 8px;
 }
 
+a {
+    color: #888aaa;
+    text-decoration: none;
+}
+
 footer {
     color: #888888;
     border-top: 1px solid #eeeeee;
