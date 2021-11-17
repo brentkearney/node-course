@@ -33,8 +33,7 @@ app.get('', (req, res) => {
 
 app.get('/about', (req, res) => {
     res.render('about', {
-        title: 'About Ye Weather App',
-        aboutText: 'One of those days.',
+        title: 'About Ye Weather',
         name: 'Brent'
     })
 })
