@@ -1,2 +1,3 @@
-# Udemy: The Complete Node.js Developer Course (3rd Edition)
+# Udemy: The Complete Node.js Developer Course
 
+I'm learning the popular Node.js framework.
